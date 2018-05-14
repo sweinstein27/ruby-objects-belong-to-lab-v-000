@@ -5,3 +5,5 @@ class Posts
     @name = name
     @author = author
   end
+
+end
