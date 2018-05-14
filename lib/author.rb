@@ -5,9 +5,4 @@ class author
     @name = name
   end
 
-
-
-
-
-
 end
